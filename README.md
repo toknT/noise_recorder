@@ -2,7 +2,9 @@
 
 A recorder can recode sound when meet the decibel.
 
-I just create this app for learning flutter;
+I just create this app for learning flutter.
+
+You can get code of this app from [https://github.com/toknT/noise_recorder](https://github.com/toknT/noise_recorder)
 
 ## todo
 
